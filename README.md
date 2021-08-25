@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rgfaber
 - 👀 I’m interested in ...creating a streamlined GitOps platform, so we can automate and speed up the development of our Logistics platform
-- 🌱 I’m currently learning ...Crossplane on Civo, combined with ArgoCD and KubeVela
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...GoLang, EventStoreDB, NATS.io, Crossplane on Civo, ArgoCD/FluxCD, KubeVela,...
+- 💞️ I’m looking to collaborate on an event sourced Parking Simulation Game (Just to learn golang)
 - 📫 How to reach me ...
 
 <!---
