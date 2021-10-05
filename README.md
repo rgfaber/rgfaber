@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rgfaber
 - 👀 I’m interested in ...creating a streamlined GitOps platform, so we can automate and speed up the development of our Logistics platform
 - 🌱 I’m currently learning ...GoLang, EventStoreDB, NATS.io, Crossplane on Civo, ArgoCD/FluxCD, KubeVela,...
-- 💞️ I’m looking to collaborate on an event sourced Robot Wars Simulation Game (Just to learn golang) 
+- 💞️ I’m looking to collaborate on an event sourced Robot Wars Simulation Game (Just to learn golang) [Go! Robby](https://github.com/rgfaber/go-robby.git)
 - 📫 How to reach me ...
 
 <!---
