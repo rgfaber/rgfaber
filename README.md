@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rgfaber
 - 👀 I’m interested in history, arts, the universe, physics, mathematics, music and much more
-- 🌱 I’m currently learning Polish, GoLang, EventStoreDB, NATS.io, Crossplane on Civo, ArgoCD/FluxCD, KubeVela,...
-- 💞️ I’m looking to collaborate on an event sourced Robot Wars Simulation Game (Just to learn golang) [Go! Robby](https://github.com/rgfaber/go-robby.git)
+- 🌱 I’m currently learning Polish, Elixir, GoLang, EventStoreDB, NATS.io, Crossplane on Civo, ArgoCD/FluxCD, KubeVela,...
+- 💞️ I’m looking to collaborate on an event sourced Robot Wars Simulation Game (Just to learn Elixir) [RobEx](https://github.com/rgfaber/robex.git)
 - 📫 How to reach me ...
 
 <!---
